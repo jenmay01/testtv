@@ -166,14 +166,6 @@
       "name": "DAZN 1"
     },
     {
-      "url": "https://stream1.freetv.fun/f49f0f8d51a7ac7ae8e377ea5b7b46bfc228c7fe55479e1b7111d7d8ca2167c4.ctv",
-      "name": "DAZN 2"
-    },
-    {
-      "url": "https://stream1.freetv.fun/7c5d8bb68473e29f0336a20d263a2194a0f25e57adcdf5a0dde59a8e13ecc159.ctv",
-      "name": "Discovery"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=iEpJwprxDdk",
       "name": "Bloomberg Business News"
     },
