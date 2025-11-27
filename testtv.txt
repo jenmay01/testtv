@@ -1,4 +1,4 @@
-Tanda,#genre#
+FreeMan,#genre#
 民視,rtmp://f13h.mine.nu/sat/tv051
 台視,rtmp://f13h.mine.nu/sat/tv071
 中視,rtmp://f13h.mine.nu/sat/tv091
