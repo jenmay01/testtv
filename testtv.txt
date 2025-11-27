@@ -21,3 +21,4 @@ KOREA Arirang TV,http://125.227.210.55:48553/VideoInput/play.ts
 NHK JAPAN台,http://125.227.210.55:35802/VideoInput/play.ts
 鳳凰衛視中文台,http://125.227.210.55:39004/VideoInput/play.ts
 德國之聲DW News,http://125.227.210.55:42534/VideoInput/play.ts
+EYE TV 戲劇 358,https://stream1.freetv.fun/c6d57122f87e0e0e64456d63ca9d8ee468d52268b226d1c842c4069d2977ce53.m3u8
