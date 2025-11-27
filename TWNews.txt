@@ -1,0 +1,257 @@
+{
+  "channelList": [
+    {
+      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+      "name": "TVBS新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=k0NEmbEK9DI",
+      "name": "TVBS HD"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "name": "台視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "name": "台視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "name": "民視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/c/twctvnews/live",
+      "name": "中視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+      "name": "中視新聞2"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "name": "華視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/live/vr3XyVCR4T0",
+      "name": "中天新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "name": "公視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "name": "公視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "name": "東森新聞"
+    },
+    {
+      "url": "https://www.youtube.com/user/57ETFN/live",
+      "name": "東森財經"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1I2iq41Akmo",
+      "name": "東森財經新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AEBeWMM1atA",
+      "name": "東森財經股市"
+    },
+    {
+      "url": "https://www.youtube.com/live/cimbpAZUjzw",
+      "name": "東森綜合2台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=k0uJVhYX12Y",
+      "name": "東森57怪奇物語"
+    },
+    {
+      "url": "http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8",
+      "name": "東森超視345"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "name": "寰宇新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EnuEsX3FSh0",
+      "name": "寰宇新聞財經台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "name": "寰宇新聞台灣台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
+      "name": "大愛一臺"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
+      "name": "大愛二臺"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "name": "鏡新聞"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+      "name": "非凡新聞-要等",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eA6Aczd3FZM",
+      "name": "非凡財經"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
+      "name": "三立 iNEWS 新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PO_QMhgXMvw",
+      "name": "三立新聞LIVE"
+    },
+    {
+      "url": "http://37.27.111.214:8080/live/27/hls.m3u8",
+      "name": "HISTORY頻道"
+    },
+    {
+      "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
+      "name": "動物星球"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4HysYHJ6GkY",
+      "name": "國會頻道1"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Lj8OWF6nzcg",
+      "name": "國會頻道2"
+    },
+    {
+      "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8",
+      "name": "人間衛視"
+    },
+    {
+      "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8",
+      "name": "人間衛視2"
+    },
+    {
+      "url": "http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080",
+      "name": "生命電視台"
+    },
+    {
+      "url": "http://61.58.60.230:9319/live/49.m3u8",
+      "name": "世新綜合台"
+    },
+    {
+      "url": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8",
+      "name": "Good TV 1a"
+    },
+    {
+      "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8",
+      "name": "Good TV 1b"
+    },
+    {
+      "url": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8",
+      "name": "Good TV 2a"
+    },
+    {
+      "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8",
+      "name": "Good TV 2b"
+    },
+    {
+      "url": "https://stream1.freetv.fun/ed13176f149b4fbee1e4a778c55c4e19a7d4aebe2a73957b0a29b5d2bf37d849.m3u8",
+      "name": "DAZN 1"
+    },
+    {
+      "url": "https://stream1.freetv.fun/f49f0f8d51a7ac7ae8e377ea5b7b46bfc228c7fe55479e1b7111d7d8ca2167c4.ctv",
+      "name": "DAZN 2"
+    },
+    {
+      "url": "https://stream1.freetv.fun/7c5d8bb68473e29f0336a20d263a2194a0f25e57adcdf5a0dde59a8e13ecc159.ctv",
+      "name": "Discovery"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iEpJwprxDdk",
+      "name": "Bloomberg Business News"
+    },
+    {
+      "url": "https://stream1.freetv.fun/0745642232c7bcb48dedbb1ac8d145f083cecaf8153df9a2870fb58325c56c82.m3u8",
+      "name": "BBC Earth"
+    },
+    {
+      "url": "https://stream1.freetv.fun/02205072306ac6c143d2707e909bda809deef2a1bda1923da9681ec5744f7081.m3u8",
+      "name": "BBC Earth2"
+    },
+    {
+      "url": "https://stream1.freetv.fun/02205072306ac6c143d2707e909bda809deef2a1bda1923da9681ec5744f7081.m3u8",
+      "name": "BBC Earth3"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LdbozD8XeJ0",
+      "name": "BBC Earth Science"
+    },
+    {
+      "url": "http://125.227.210.55:8165/VideoInput/play.ts",
+      "name": "BBC News"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=a0vX_Qt0gDQ",
+      "name": "CNN INDONESIA"
+    },
+    {
+      "url": "http://125.227.210.55:15533/VideoInput/play.ts",
+      "name": "法國TV5"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4nMfRpesYfw",
+      "name": "FOX 24/7 LIVE"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CJVBX7KI5nU",
+      "name": "KOREA Arirang TV"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4bh3ju6dLWg",
+      "name": "NBC News"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=f0lYkdA-Gtw",
+      "name": "NHK JAPAN"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=coYw-eVU0Ks",
+      "name": "テレ朝NEWS24"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-C6FE2m7kX8",
+      "name": "メ～テレ NEWS LIVE 24"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YDvsBbKfLPA",
+      "name": "Sky News"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KyT4qSK8lJo",
+      "name": "台灣地震監視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=meHTKm4XBS8",
+      "name": "華視地震降雨即時資訊"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KpB5CMofRI8",
+      "name": "高雄市重要路口即時影像"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oPntQYFGwgY",
+      "name": "momo歡樂谷【專輯1-13】"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZjMe5u-I3PM",
+      "name": "東森YOYO金曲X熱門卡通"
+    }
+  ]
+}
