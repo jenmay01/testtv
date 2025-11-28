@@ -1,8 +1,4 @@
 台灣,#genre#
-[BD]3说电影,https://stream1.freetv.fun/3shuo-dian-ying-1.ctv
-[HD]3030相声小品,https://stream1.freetv.fun/3030xiang-sheng-xiao-pin-1.ctv
-[BD]b站王者荣耀[geo-blocked],https://stream1.freetv.fun/bzhan-wang-zhe-rong-yao-1.ctv
-[BD]amc電影[geo-blocked],https://stream1.freetv.fun/amcdian-ying-5.ctv
 [BD]amc電影[geo-blocked],https://stream1.freetv.fun/amcdian-ying-4.ctv
 [BD]amc電影[geo-blocked],https://stream1.freetv.fun/amcdian-ying-2.ctv
 [BD]bbc earth,https://stream1.freetv.fun/bbc-earth-12.m3u8
@@ -349,4 +345,9 @@
 [BD]龍華日韓劇[geo-blocked],https://stream1.freetv.fun/long-hua-ri-han-ju-3.ctv
 [BD]龙华经典[geo-blocked],https://stream1.freetv.fun/long-hua-jing-dian-1.ctv
 [BD]龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-8.ctv
+[BD]3说电影,https://stream1.freetv.fun/3shuo-dian-ying-1.ctv
+
+[HD]3030相声小品,https://stream1.freetv.fun/3030xiang-sheng-xiao-pin-1.ctv
+[BD]b站王者荣耀[geo-blocked],https://stream1.freetv.fun/bzhan-wang-zhe-rong-yao-1.ctv
+[BD]amc電影[geo-blocked],https://stream1.freetv.fun/amcdian-ying-5.ctv
 [BD]龍華電影[geo-blocked],https://stream1.freetv.fun/long-hua-dian-ying-7.ctv
