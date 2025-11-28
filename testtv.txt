@@ -1,14 +1,14 @@
 FreeMan,#genre#
-民視,rtmp://f13h.mine.nu/sat/tv051
-台視,rtmp://f13h.mine.nu/sat/tv071
-中視,rtmp://f13h.mine.nu/sat/tv091
+1128x 民視,rtmp://f13h.mine.nu/sat/tv051
+1128x 台視,rtmp://f13h.mine.nu/sat/tv071
+1128x 中視,rtmp://f13h.mine.nu/sat/tv091
 中視,https://stream1.freetv.fun/7652a7e444737537cc05dfaa05a62ce98e6ca96690e372c4356f70a6d3d7ff15.m3u8
 中視,https://stream1.freetv.fun/7aee77424190e76ae55cf2834b4889e9ed457991285a78c12d6e934b34c0f401.m3u8
 華視,rtmp://f13h.mine.nu/sat/tv111
-東森超視,rtmp://f13h.mine.nu/sat/tv521
-TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
-TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
-東森財經新聞,rtmp://f13h.mine.nu/sat/tv571
+1128x 東森超視,rtmp://f13h.mine.nu/sat/tv521
+1128x TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
+1128x TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
+1128x 東森財經新聞,rtmp://f13h.mine.nu/sat/tv571
 中天娛樂,https://stream1.freetv.fun/74a8ab37d2a61da86412610557967f89f87574a0c1b1e3ecc77049be45d2433d.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
@@ -52,3 +52,5 @@ EYE TV 戲劇 358,https://stream1.freetv.fun/c6d57122f87e0e0e64456d63ca9d8ee468d
 BBC Earth,https://stream1.freetv.fun/0745642232c7bcb48dedbb1ac8d145f083cecaf8153df9a2870fb58325c56c82.m3u8
 BBC Earth2,https://stream1.freetv.fun/02205072306ac6c143d2707e909bda809deef2a1bda1923da9681ec5744f7081.m3u8
 BBC Earth3,https://stream1.freetv.fun/02205072306ac6c143d2707e909bda809deef2a1bda1923da9681ec5744f7081.m3u8
+
+
