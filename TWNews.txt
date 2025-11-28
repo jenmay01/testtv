@@ -33,6 +33,10 @@
       "name": "華視新聞"
     },
     {
+      "url": "https://stream1.freetv.fun/5b0313cb934e95ad759ba66b2c601bca333c40dabb073870a5afa30905b97344.m3u8",
+      "name": "華視"
+    },
+    {
       "url": "https://www.youtube.com/live/vr3XyVCR4T0",
       "name": "中天新聞"
     },
@@ -77,6 +81,10 @@
       "name": "東森超視345"
     },
     {
+      "url": "https://stream1.freetv.fun/45a0f78f58b360078097c8797db3cc4f98fc98a5382df97f74b1674c56d2b8aa.m3u8",
+      "name": "東森洋片"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
       "name": "寰宇新聞"
     },
@@ -87,14 +95,6 @@
     {
       "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
       "name": "寰宇新聞台灣台"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
-      "name": "大愛一臺"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
-      "name": "大愛二臺"
     },
     {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
@@ -118,20 +118,24 @@
       "name": "三立新聞LIVE"
     },
     {
-      "url": "http://37.27.111.214:8080/live/27/hls.m3u8",
-      "name": "HISTORY頻道"
-    },
-    {
-      "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
-      "name": "動物星球"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=4HysYHJ6GkY",
       "name": "國會頻道1"
     },
     {
+      "url": "https://stream1.freetv.fun/c6d57122f87e0e0e64456d63ca9d8ee468d52268b226d1c842c4069d2977ce53.m3u8",
+      "name": "EYE TV 戲劇 358 1128x"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=Lj8OWF6nzcg",
       "name": "國會頻道2"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
+      "name": "大愛一臺"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
+      "name": "大愛二臺"
     },
     {
       "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8",
@@ -146,8 +150,8 @@
       "name": "生命電視台"
     },
     {
-      "url": "http://61.58.60.230:9319/live/49.m3u8",
-      "name": "世新綜合台"
+      "url": "https://stream1.freetv.fun/69354b17f120facf9f500285793070d33efe35ae6abece2367865e4871a94697.m3u8",
+      "name": "唯心電視"
     },
     {
       "url": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8",
@@ -162,12 +166,24 @@
       "name": "Good TV 2a 1128x"
     },
     {
+      "url": "https://stream1.freetv.fun/4aa5028a292feeab65651639f5d25f212d77dc531a8832de5e6db03f48dc538d.m3u8",
+      "name": "Good TV 1"
+    },
+    {
+      "url": "https://stream1.freetv.fun/1948a06d8b4fe0accee9b4e2d50670f482df67e459d97b51863321d9cf327211.m3u8",
+      "name": "Good TV 2"
+    },
+    {
       "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8",
       "name": "Good TV 2b 1128x"
     },
     {
       "url": "https://stream1.freetv.fun/ed13176f149b4fbee1e4a778c55c4e19a7d4aebe2a73957b0a29b5d2bf37d849.m3u8",
       "name": "DAZN 1"
+    },
+    {
+      "url": "http://61.58.60.230:9319/live/49.m3u8",
+      "name": "世新綜合台"
     },
     {
       "url": "https://stream1.freetv.fun/7da56e99c883c8c3ea4d9435ac6ae66ade9c577ea9726c0ac18a1c3f50714a2d.m3u8",
@@ -206,24 +222,31 @@
       "name": "ELTA體育4台-備用2 1128x"
     },
     {
-      "url": "https://stream1.freetv.fun/ee443f266ec437d0859ba226c193d592df7f009341c5cf48cdf476be43cb0bb8.m3u8",
-      "name": "EYE TV 戲劇 358 1128x"
+      "url": "https://stream1.freetv.fun/aa770991dd556fb03a3ca62cfbb3e9d749bc9762989db561c7a4b16fcafb6467.m3u8",
+      "name": "博斯網球"
     },
     {
+      "url": "https://stream1.freetv.fun/3013dc82d4cb43aad196e958335db8e46154f78627fc0f388ad787ac35e19bb0.m3u8",
+      "name": "博斯運動"
+    },
+    {
+      "url": "https://stream1.freetv.fun/012a1900f91e73ba1a44046dcda5131837d3ba0598f754aa6ba7fa2eba6a700e.m3u8",
+      "name": "博斯運動2"
+    },
+    {
+      "url": "http://37.27.111.214:8080/live/27/hls.m3u8",
+      "name": "HISTORY頻道"
+    },
+    {
+      "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
+      "name": "動物星球"
+    },    {
       "url": "https://www.youtube.com/watch?v=iEpJwprxDdk",
       "name": "Bloomberg Business News"
     },
     {
-      "url": "https://stream1.freetv.fun/0745642232c7bcb48dedbb1ac8d145f083cecaf8153df9a2870fb58325c56c82.m3u8",
-      "name": "BBC Earth"
-    },
-    {
       "url": "https://stream1.freetv.fun/02205072306ac6c143d2707e909bda809deef2a1bda1923da9681ec5744f7081.m3u8",
-      "name": "BBC Earth2"
-    },
-    {
-      "url": "https://stream1.freetv.fun/02205072306ac6c143d2707e909bda809deef2a1bda1923da9681ec5744f7081.m3u8",
-      "name": "BBC Earth3"
+      "name": "BBC Earth us"
     },
     {
       "url": "https://www.youtube.com/watch?v=LdbozD8XeJ0",
