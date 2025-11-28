@@ -1,3 +1,4 @@
+台灣,#genre#
 [BD]3说电影,https://stream1.freetv.fun/3shuo-dian-ying-1.ctv
 [HD]3030相声小品,https://stream1.freetv.fun/3030xiang-sheng-xiao-pin-1.ctv
 [BD]b站王者荣耀[geo-blocked],https://stream1.freetv.fun/bzhan-wang-zhe-rong-yao-1.ctv
@@ -77,6 +78,8 @@
 [BD]love nature,https://stream1.freetv.fun/love-nature-27.m3u8
 [BD]love nature,https://stream1.freetv.fun/love-nature-12.m3u8
 [BD]love nature,https://stream1.freetv.fun/love-nature-6.m3u8
+
+國際,#genre#
 [BD]momo綜合[geo-blocked],https://stream1.freetv.fun/momozong-he-5.ctv
 [HD]momo综合[geo-blocked],rtmp://f13h.mine.nu/sat/tv761
 [BD]momo綜合[geo-blocked],https://stream1.freetv.fun/momozong-he-4.ctv
