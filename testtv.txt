@@ -2,8 +2,6 @@
 民視,rtmp://f13h.mine.nu/sat/tv051
 民視,rtmp://f13h.mine.nu:1395/sat/tv051
 民視新聞台,https://stream1.freetv.fun/33ae9aa2523492a0deb1bebba74b646b746cf674d50b753e7c4c06305d3fe40b.m3u8
-民視新聞台ctv,https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.ctv
-緯來日本ctv,https://stream1.freetv.fun/9da2a954a3cb621db9561441401c4e8bc381f81625aa9a3f7c8bf48e852cdf09.ctv
 台視,rtmp://f13h.mine.nu/sat/tv071
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,https://stream1.freetv.fun/41157664acf190bce85c72f310a742879b275e1912726bc43f323ff6ae321e09.m3u8
