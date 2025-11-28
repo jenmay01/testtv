@@ -5,8 +5,8 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=k0NEmbEK9DI",
-      "name": "TVBS HD"
+      "url": "https://www.youtube.com/watch?v=f9P_slj4KvU",
+      "name": "TVBS HD 每天更新?"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
@@ -151,19 +151,19 @@
     },
     {
       "url": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8",
-      "name": "Good TV 1a"
+      "name": "Good TV 1a 1128x"
     },
     {
       "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8",
-      "name": "Good TV 1b"
+      "name": "Good TV 1b 1128x"
     },
     {
       "url": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8",
-      "name": "Good TV 2a"
+      "name": "Good TV 2a 1128x"
     },
     {
       "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8",
-      "name": "Good TV 2b"
+      "name": "Good TV 2b 1128x"
     },
     {
       "url": "https://stream1.freetv.fun/ed13176f149b4fbee1e4a778c55c4e19a7d4aebe2a73957b0a29b5d2bf37d849.m3u8",
@@ -195,19 +195,19 @@
     },
     {
       "url": "https://stream1.freetv.fun/5ddbe56c1966907a90af03e27dc32873c5133b6849f4917e1bc3d5107ef70043.m3u8",
-      "name": "ELTA體育4台"
+      "name": "ELTA體育4台 1128x"
     },
     {
       "url": "https://stream1.freetv.fun/30ba43a33f129629ba84fca5afae10c8f9be94d141a6ff0f0c4238656aef75ff.m3u8",
-      "name": "ELTA體育4台-備用"
+      "name": "ELTA體育4台-備用 1128x"
     },
     {
       "url": "https://stream1.freetv.fun/ee443f266ec437d0859ba226c193d592df7f009341c5cf48cdf476be43cb0bb8.m3u8",
-      "name": "ELTA體育4台-備用2"
+      "name": "ELTA體育4台-備用2 1128x"
     },
     {
       "url": "https://stream1.freetv.fun/ee443f266ec437d0859ba226c193d592df7f009341c5cf48cdf476be43cb0bb8.m3u8",
-      "name": "EYE TV 戲劇 358"
+      "name": "EYE TV 戲劇 358 1128x"
     },
     {
       "url": "https://www.youtube.com/watch?v=iEpJwprxDdk",
