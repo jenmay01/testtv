@@ -312,7 +312,20 @@
 
 
 其它,#genre#
+[HD]ca ctv drama channel,https://stream1.freetv.fun/ca-ctv-drama-channel-1.ctv
+[HD]tempe channel 11,https://stream1.freetv.fun/tempe-channel-11-1.m3u8
+[SD]food network *m,https://stream1.freetv.fun/food-network--m-1.ctv
+[HD]global trekker,https://stream1.freetv.fun/global-trekker--wj-1.m3u8
+[HD]global trekker,https://stream1.freetv.fun/global-trekker--wj-2.m3u8
 [BD]bbc earth,https://stream1.freetv.fun/bbc-earth-12.m3u8
+[BD]us hgtv,https://stream1.freetv.fun/us-hgtv-1.ctv
+[SD]lifetime(tw)--,https://stream1.freetv.fun/lifetime-7.ctv
+[SD]lifetime(tw)--,https://stream1.freetv.fun/lifetime-4.ctv
+[SD]smithsonian channel,https://stream1.freetv.fun/smithsonian-channel-2.ctv
+[SD]smithsonian channel,https://stream1.freetv.fun/smithsonian-channel-3.ctv
+[HD]gold star,https://stream1.freetv.fun/gold-star-1.m3u8
+[BD]roll,https://stream1.freetv.fun/roll-1.m3u8
+
 [HD]bbc earth,https://stream1.freetv.fun/bbc-earth-3.ctv
 [BD]bbc earth us,https://stream1.freetv.fun/bbc-earth-us-1.m3u8
 [BD]ช่อง bbc earth,https://stream1.freetv.fun/ch-ng-bbc-earth-1.m3u8
@@ -322,14 +335,12 @@
 [HD]corfu channel,https://stream1.freetv.fun/corfu-channel-1.m3u8
 [HD]channel 11,https://stream1.freetv.fun/channel-11-2.m3u8
 [VGA]cfm tv channel 98 (360p),https://stream1.freetv.fun/cfm-tv-channel-98-1.m3u8
-[HD]tempe channel 11,https://stream1.freetv.fun/tempe-channel-11-1.m3u8
 [VGA]fx movie channel (720p),https://stream1.freetv.fun/fx-movie-channel-1.ctv
 [BD]go-tv channel,https://stream1.freetv.fun/go-tv-channel-1.m3u8
 [SD]channel s uk,https://stream1.freetv.fun/channel-s-uk-1.m3u8
 [BD]channel s music,https://stream1.freetv.fun/channel-s-music-1.m3u8
 [VGA]light channel,https://stream1.freetv.fun/light-channel-4.m3u8
 [VGA]light channel,https://stream1.freetv.fun/light-channel-5.m3u8
-[HD]ca ctv drama channel,https://stream1.freetv.fun/ca-ctv-drama-channel-1.ctv
 [BD]discovery world tamil,https://stream1.freetv.fun/discovery-world-tamil-1.ctv
 [HD]discovery(tw) *s,https://stream1.freetv.fun/discovery--s-1.m3u8
 [BD]discovery,https://stream1.freetv.fun/discovery-9.ctv
@@ -343,18 +354,12 @@
 [BD]food network,https://stream1.freetv.fun/food-network-4.m3u8
 [BD]food network(tw) *s,https://stream1.freetv.fun/food-network--s-1.m3u8
 [HD]ช่อง food network,https://stream1.freetv.fun/ch-ng-food-network-3.m3u8
-[SD]food network *m,https://stream1.freetv.fun/food-network--m-1.ctv
 [HD]foodnetwork,https://stream1.freetv.fun/foodnetwork-3.ctv
-[HD]global trekker,https://stream1.freetv.fun/global-trekker--wj-1.m3u8
-[HD]global trekker,https://stream1.freetv.fun/global-trekker--wj-2.m3u8
 [HD]hgtv,https://stream1.freetv.fun/hgtv-5.ctv
 [HD]ช่อง hgtv,https://stream1.freetv.fun/ch-ng-hgtv-1.m3u8
-[BD]us hgtv,https://stream1.freetv.fun/us-hgtv-1.ctv
 [SD]hollywood,https://stream1.freetv.fun/hollywood-5.m3u8
 [HD]lifetime east,https://stream1.freetv.fun/lifetime-east-2.m3u8
 [HD]ช่อง lifetime,https://stream1.freetv.fun/ch-ng-lifetime-2.m3u8
-[SD]lifetime(tw)--,https://stream1.freetv.fun/lifetime-7.ctv
-[SD]lifetime(tw)---,https://stream1.freetv.fun/lifetime-4.ctv
 [BD]love nature,https://stream1.freetv.fun/love-nature-27.m3u8
 [BD]love nature,https://stream1.freetv.fun/love-nature-12.m3u8
 [BD]love nature,https://stream1.freetv.fun/love-nature-6.m3u8
@@ -364,10 +369,6 @@
 [HD]rock entertainment,https://stream1.freetv.fun/rock-entertainment-3.ctv
 [HD]folklore tv,https://stream1.freetv.fun/folklore-tv-1.m3u8
 [HD]smithsonian channel east,https://stream1.freetv.fun/smithsonian-channel-east-1.m3u8
-[SD]smithsonian channel ==,https://stream1.freetv.fun/smithsonian-channel-2.ctv
-[SD]smithsonian channel =,https://stream1.freetv.fun/smithsonian-channel-3.ctv
 [SD]smithsonian channel selects,https://stream1.freetv.fun/smithsonian-channel-selects-1.m3u8
 [SD]smithsonian channel selects,https://stream1.freetv.fun/smithsonian-channel-selects-2.m3u8
-[HD]gold star,https://stream1.freetv.fun/gold-star-1.m3u8
 [BD]star movies select,https://stream1.freetv.fun/star-movies-select-1.ctv
-[BD]roll,https://stream1.freetv.fun/roll-1.m3u8
