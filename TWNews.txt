@@ -6,7 +6,7 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=f9P_slj4KvU",
-      "name": "TVBS HD 每天更新?"
+      "name": "TVBS HD"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
