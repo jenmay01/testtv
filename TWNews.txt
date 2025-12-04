@@ -34,7 +34,7 @@
     },
     {
       "url": "https://stream1.freetv.fun/5b0313cb934e95ad759ba66b2c601bca333c40dabb073870a5afa30905b97344.m3u8",
-      "name": "華視"
+      "name": "華視 12/4x"
     },
     {
       "url": "https://www.youtube.com/live/vr3XyVCR4T0",
@@ -42,14 +42,14 @@
     },
     {
       "url": "https://stream1.freetv.fun/74a8ab37d2a61da86412610557967f89f87574a0c1b1e3ecc77049be45d2433d.m3u8",
-      "name": "中天娛樂"
+      "name": "中天娛樂 12/4x"
     },
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
       "name": "公視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "url": "https://www.youtube.com/watch?v=quwqlazU-c8",
       "name": "公視新聞"
     },
     {
@@ -114,7 +114,7 @@
       "name": "三立 iNEWS 新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=PO_QMhgXMvw",
+      "url": "https://www.youtube.com/watch?v=QsGswQvRmtU",
       "name": "三立新聞LIVE"
     },
     {
@@ -122,12 +122,12 @@
       "name": "國會頻道1"
     },
     {
-      "url": "https://stream1.freetv.fun/c6d57122f87e0e0e64456d63ca9d8ee468d52268b226d1c842c4069d2977ce53.m3u8",
-      "name": "EYE TV 戲劇 358 1128x"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=Lj8OWF6nzcg",
       "name": "國會頻道2"
+    },
+    {
+      "url": "https://stream1.freetv.fun/c6d57122f87e0e0e64456d63ca9d8ee468d52268b226d1c842c4069d2977ce53.m3u8",
+      "name": "EYE TV 戲劇 358 1128x 12/4x"
     },
     {
       "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
@@ -155,31 +155,31 @@
     },
     {
       "url": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8",
-      "name": "Good TV 1a 1128x"
+      "name": "Good TV 1a 1128x 12/4x"
     },
     {
       "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8",
-      "name": "Good TV 1b 1128x"
+      "name": "Good TV 1b 1128x 12/4x"
     },
     {
       "url": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8",
-      "name": "Good TV 2a 1128x"
+      "name": "Good TV 2a 1128x 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/4aa5028a292feeab65651639f5d25f212d77dc531a8832de5e6db03f48dc538d.m3u8",
-      "name": "Good TV 1"
+      "name": "Good TV 1 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/1948a06d8b4fe0accee9b4e2d50670f482df67e459d97b51863321d9cf327211.m3u8",
-      "name": "Good TV 2"
+      "name": "Good TV 2 12/4x"
     },
     {
       "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8",
-      "name": "Good TV 2b 1128x"
+      "name": "Good TV 2b 1128x 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/ed13176f149b4fbee1e4a778c55c4e19a7d4aebe2a73957b0a29b5d2bf37d849.m3u8",
-      "name": "DAZN 1"
+      "name": "DAZN 1 12/4x"
     },
     {
       "url": "http://61.58.60.230:9319/live/49.m3u8",
@@ -187,51 +187,51 @@
     },
     {
       "url": "https://stream1.freetv.fun/7da56e99c883c8c3ea4d9435ac6ae66ade9c577ea9726c0ac18a1c3f50714a2d.m3u8",
-      "name": "ELTA體育1台"
+      "name": "ELTA體育1台 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/2841576b6e00879ca323f57a2b07afc5fb1949bdfa67a4bfddefb7e900e72aeb.m3u8",
-      "name": "ELTA體育1台-備用"
+      "name": "ELTA體育1台-備用 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/efdcf10ff71385ad67e8f9f709efec1b134d1fd2ccf31a816b50906141fe35f3.m3u8",
-      "name": "ELTA體育1台-備用2"
+      "name": "ELTA體育1台-備用2 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/fe060d6095c7ba7b9072f4fa3a6ad0371539c28fd4b2c22fef35e21ea7770812.m3u8",
-      "name": "ELTA體育2台"
+      "name": "ELTA體育2台 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/372c3f5f7b858e6b9c700637d88b44594d69a4af38bd2a8ff830a0ce6609d4ae.m3u8",
-      "name": "ELTA體育2台-備用"
+      "name": "ELTA體育2台-備用 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/c914e8079b7d470d7da36ff9ac1eabd3fbd49030f628252fa39fdedc8eef1bc1.m3u8",
-      "name": "ELTA體育2台-備用2"
+      "name": "ELTA體育2台-備用2 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/5ddbe56c1966907a90af03e27dc32873c5133b6849f4917e1bc3d5107ef70043.m3u8",
-      "name": "ELTA體育4台 1128x"
+      "name": "ELTA體育4台 1128x 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/30ba43a33f129629ba84fca5afae10c8f9be94d141a6ff0f0c4238656aef75ff.m3u8",
-      "name": "ELTA體育4台-備用 1128x"
+      "name": "ELTA體育4台-備用 1128x 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/ee443f266ec437d0859ba226c193d592df7f009341c5cf48cdf476be43cb0bb8.m3u8",
-      "name": "ELTA體育4台-備用2 1128x"
+      "name": "ELTA體育4台-備用2 1128x 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/aa770991dd556fb03a3ca62cfbb3e9d749bc9762989db561c7a4b16fcafb6467.m3u8",
-      "name": "博斯網球"
+      "name": "博斯網球 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/3013dc82d4cb43aad196e958335db8e46154f78627fc0f388ad787ac35e19bb0.m3u8",
-      "name": "博斯運動"
+      "name": "博斯運動 12/4x"
     },
     {
       "url": "https://stream1.freetv.fun/012a1900f91e73ba1a44046dcda5131837d3ba0598f754aa6ba7fa2eba6a700e.m3u8",
-      "name": "博斯運動2"
+      "name": "博斯運動2 12/4x"
     },
     {
       "url": "http://37.27.111.214:8080/live/27/hls.m3u8",
