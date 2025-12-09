@@ -154,30 +154,6 @@
       "name": "唯心電視"
     },
     {
-      "url": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8",
-      "name": "Good TV 1a 1128x 12/4x"
-    },
-    {
-      "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8",
-      "name": "Good TV 1b 1128x 12/4x"
-    },
-    {
-      "url": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8",
-      "name": "Good TV 2a 1128x 12/4x"
-    },
-    {
-      "url": "https://stream1.freetv.fun/4aa5028a292feeab65651639f5d25f212d77dc531a8832de5e6db03f48dc538d.m3u8",
-      "name": "Good TV 1 12/4x"
-    },
-    {
-      "url": "https://stream1.freetv.fun/1948a06d8b4fe0accee9b4e2d50670f482df67e459d97b51863321d9cf327211.m3u8",
-      "name": "Good TV 2 12/4x"
-    },
-    {
-      "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8",
-      "name": "Good TV 2b 1128x 12/4x"
-    },
-    {
       "url": "http://61.58.60.230:9319/live/49.m3u8",
       "name": "世新綜合台"
     },
