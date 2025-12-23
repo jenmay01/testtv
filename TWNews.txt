@@ -10,7 +10,12 @@
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet005.smil/chunklist_b800000_slzho.m3u8",
-      "name": "TVBS新聞-friday源",
+      "name": "TVBS新聞-friday源1",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet005.smil/playlist.m3u8",
+      "name": "TVBS新聞-friday源2",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
@@ -27,7 +32,17 @@
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet002.smil/chunklist_b800000_slzho.m3u8",
-      "name": "民視新聞-friday源",
+      "name": "民視新聞-friday源1",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
+      "name": "民視新聞-friday源2",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet004.smil/playlist.m3u8",
+      "name": "民視新聞-friday源3",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
@@ -101,66 +116,6 @@
     {
       "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
       "name": "非凡新聞friday源",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
-      "name": "f民視新聞",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet003.smil/playlist.m3u8",
-      "name": "f3",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet004.smil/playlist.m3u8",
-      "name": "f4",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet005.smil/playlist.m3u8",
-      "name": "f5",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet006.smil/playlist.m3u8",
-      "name": "f6",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet007.smil/playlist.m3u8",
-      "name": "f7",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet008.smil/playlist.m3u8",
-      "name": "f8",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet009.smil/playlist.m3u8",
-      "name": "f9",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet010.smil/playlist.m3u8",
-      "name": "f10",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet011.smil/playlist.m3u8",
-      "name": "f11",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet012.smil/playlist.m3u8",
-      "name": "f12",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet013.smil/playlist.m3u8",
-      "name": "f13",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
@@ -289,6 +244,11 @@
     {
       "url": "https://www.youtube.com/watch?v=ZjMe5u-I3PM",
       "name": "東森YOYO金曲X熱門卡通"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet007.smil/playlist.m3u8",
+      "name": "Bloomberg-friday源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
     }
   ]
 }
