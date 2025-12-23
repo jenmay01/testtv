@@ -1,10 +1,6 @@
 {
   "channelList": [
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292",
-      "name": "東森新聞-4G"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
       "name": "TVBS新聞"
     },
