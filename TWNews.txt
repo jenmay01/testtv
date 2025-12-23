@@ -1,6 +1,10 @@
 {
   "channelList": [
     {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292",
+      "name": "東森新聞-4G"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
       "name": "TVBS新聞"
     },
@@ -17,14 +21,6 @@
       "url": "https://aka03p.akamaized.net/litv/fet005.smil/playlist.m3u8",
       "name": "TVBS新聞-friday源2",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
-      "name": "台視新聞"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
-      "name": "台視"
     },
     {
       "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
@@ -44,6 +40,22 @@
       "url": "https://aka03p.akamaized.net/litv/fet004.smil/playlist.m3u8",
       "name": "民視新聞-friday源3",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
+      "name": "三立 iNEWS 新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QsGswQvRmtU",
+      "name": "三立新聞LIVE"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "name": "台視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "name": "台視"
     },
     {
       "url": "https://www.youtube.com/c/twctvnews/live",
@@ -114,6 +126,10 @@
       "name": "鏡新聞"
     },
     {
+      "url": "https://www.youtube.com/watch?v=YBgQRpZqeug",
+      "name": "今AI主播新聞"
+    },
+    {
       "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
       "name": "非凡新聞friday源",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
@@ -121,14 +137,6 @@
     {
       "url": "https://www.youtube.com/watch?v=eA6Aczd3FZM",
       "name": "非凡財經"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
-      "name": "三立 iNEWS 新聞"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=QsGswQvRmtU",
-      "name": "三立新聞LIVE"
     },
     {
       "url": "https://www.youtube.com/watch?v=4HysYHJ6GkY",
