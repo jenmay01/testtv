@@ -106,6 +106,12 @@
       "name": "三立新聞LIVE"
     },
     {
+      "url": "https://hamivideo.hinet.net/channel/OTT_LIVE_0000001744.do",
+      "name": "愛爾達體育1台",
+      "ytdl-format": "best[tbr<5000]",
+      "header": "origin: https://hamivideo.hinet.net"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=4HysYHJ6GkY",
       "name": "國會頻道1"
     },
