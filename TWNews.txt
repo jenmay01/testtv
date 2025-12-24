@@ -110,7 +110,7 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=EnuEsX3FSh0",
+      "url": "https://www.youtube.com/watch?v=7G62ua4RruQ",
       "name": "寰宇新聞財經台"
     },
     {
