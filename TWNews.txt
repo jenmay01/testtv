@@ -171,65 +171,6 @@
       "name": "世新綜合台"
     },
     {
-      "url": "http://37.27.111.214:8080/live/27/hls.m3u8",
-      "name": "HISTORY頻道"
-    },
-    {
-      "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
-      "name": "動物星球"
-    },    {
-      "url": "https://www.youtube.com/watch?v=iEpJwprxDdk",
-      "name": "Bloomberg Business News"
-    },
-    {
-      "url": "https://stream1.freetv.fun/02205072306ac6c143d2707e909bda809deef2a1bda1923da9681ec5744f7081.m3u8",
-      "name": "BBC Earth us"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=LdbozD8XeJ0",
-      "name": "BBC Earth Science"
-    },
-    {
-      "url": "http://125.227.210.55:8165/VideoInput/play.ts",
-      "name": "BBC News"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=a0vX_Qt0gDQ",
-      "name": "CNN INDONESIA"
-    },
-    {
-      "url": "http://125.227.210.55:15533/VideoInput/play.ts",
-      "name": "法國TV5"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=4nMfRpesYfw",
-      "name": "FOX 24/7 LIVE"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=CJVBX7KI5nU",
-      "name": "KOREA Arirang TV"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=4bh3ju6dLWg",
-      "name": "NBC News"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=f0lYkdA-Gtw",
-      "name": "NHK JAPAN"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=coYw-eVU0Ks",
-      "name": "テレ朝NEWS24"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=-C6FE2m7kX8",
-      "name": "メ～テレ NEWS LIVE 24"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=YDvsBbKfLPA",
-      "name": "Sky News"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=KyT4qSK8lJo",
       "name": "台灣地震監視"
     },
@@ -248,11 +189,6 @@
     {
       "url": "https://www.youtube.com/watch?v=ZjMe5u-I3PM",
       "name": "東森YOYO金曲X熱門卡通"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet007.smil/playlist.m3u8",
-      "name": "Bloomberg-friday源",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
     }
   ]
 }
