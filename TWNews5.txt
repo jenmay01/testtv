@@ -36,18 +36,23 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
+      "url": "https://aka03p.akamaized.net/litv/fet003.smil/chunklist_b800000_slzho.m3u8",
+      "name": "華視-friday源c",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
       "url": "https://aka03p.akamaized.net/litv/fet003.smil/playlist.m3u8",
-      "name": "friday003源",
+      "name": "華視-friday源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet007.smil/playlist.m3u8",
+      "name": "Bloomberg彭博",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet006.smil/playlist.m3u8",
       "name": "friday006源",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet007.smil/playlist.m3u8",
-      "name": "friday007源",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
@@ -58,6 +63,56 @@
     {
       "url": "https://aka03p.akamaized.net/litv/fet009.smil/playlist.m3u8",
       "name": "friday009源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet010.smil/playlist.m3u8",
+      "name": "friday010源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet011.smil/playlist.m3u8",
+      "name": "friday011源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet012.smil/playlist.m3u8",
+      "name": "friday012源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet013.smil/playlist.m3u8",
+      "name": "friday013源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet014.smil/playlist.m3u8",
+      "name": "friday014源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet015.smil/playlist.m3u8",
+      "name": "friday015源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet016.smil/playlist.m3u8",
+      "name": "friday016源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet017.smil/playlist.m3u8",
+      "name": "friday017源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet018.smil/playlist.m3u8",
+      "name": "friday018源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet019.smil/playlist.m3u8",
+      "name": "friday019源",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
@@ -108,6 +163,206 @@
     {
       "url": "https://aka03p.akamaized.net/litv/fet029.smil/playlist.m3u8",
       "name": "friday029源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet030.smil/playlist.m3u8",
+      "name": "friday030源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet031.smil/playlist.m3u8",
+      "name": "friday031源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet032.smil/playlist.m3u8",
+      "name": "friday032源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet033.smil/playlist.m3u8",
+      "name": "friday033源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet034.smil/playlist.m3u8",
+      "name": "friday034源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet035.smil/playlist.m3u8",
+      "name": "friday035源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet036.smil/playlist.m3u8",
+      "name": "friday036源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet037.smil/playlist.m3u8",
+      "name": "friday037源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet038.smil/playlist.m3u8",
+      "name": "friday038源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet039.smil/playlist.m3u8",
+      "name": "friday039源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet040.smil/playlist.m3u8",
+      "name": "friday040源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet041.smil/playlist.m3u8",
+      "name": "friday041源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet042.smil/playlist.m3u8",
+      "name": "friday042源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet043.smil/playlist.m3u8",
+      "name": "friday043源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet044.smil/playlist.m3u8",
+      "name": "friday044源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet045.smil/playlist.m3u8",
+      "name": "friday045源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet046.smil/playlist.m3u8",
+      "name": "friday046源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet047.smil/playlist.m3u8",
+      "name": "friday047源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet048.smil/playlist.m3u8",
+      "name": "friday048源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet049.smil/playlist.m3u8",
+      "name": "friday049源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet050.smil/playlist.m3u8",
+      "name": "friday050源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet051.smil/playlist.m3u8",
+      "name": "friday051源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet052.smil/playlist.m3u8",
+      "name": "friday052源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet053.smil/playlist.m3u8",
+      "name": "friday053源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet054.smil/playlist.m3u8",
+      "name": "friday054源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet055.smil/playlist.m3u8",
+      "name": "friday055源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet056.smil/playlist.m3u8",
+      "name": "friday056源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet057.smil/playlist.m3u8",
+      "name": "friday057源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet058.smil/playlist.m3u8",
+      "name": "friday058源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet059.smil/playlist.m3u8",
+      "name": "friday059源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet060.smil/playlist.m3u8",
+      "name": "friday060源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet061.smil/playlist.m3u8",
+      "name": "friday061源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet062.smil/playlist.m3u8",
+      "name": "friday062源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet063.smil/playlist.m3u8",
+      "name": "friday063源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet064.smil/playlist.m3u8",
+      "name": "friday064源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet065.smil/playlist.m3u8",
+      "name": "friday065源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet066.smil/playlist.m3u8",
+      "name": "friday066源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet067.smil/playlist.m3u8",
+      "name": "friday067源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet068.smil/playlist.m3u8",
+      "name": "friday068源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet069.smil/playlist.m3u8",
+      "name": "friday069源",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     }
   ]

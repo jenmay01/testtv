@@ -10,12 +10,12 @@
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet005.smil/chunklist_b800000_slzho.m3u8",
-      "name": "TVBS新聞-friday源1",
+      "name": "TVBS新聞-friday源c",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet005.smil/playlist.m3u8",
-      "name": "TVBS新聞-friday源2x",
+      "name": "TVBS新聞-friday源",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
@@ -24,17 +24,17 @@
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet002.smil/chunklist_b800000_slzho.m3u8",
-      "name": "民視新聞-friday源1x",
+      "name": "民視新聞-friday源c",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
-      "name": "民視新聞-friday源2x",
+      "name": "民視新聞-friday源",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet004.smil/playlist.m3u8",
-      "name": "民視新聞-friday源3",
+      "name": "民視新聞-friday源2",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
@@ -64,6 +64,16 @@
     {
       "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
       "name": "華視新聞"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet003.smil/chunklist_b800000_slzho.m3u8",
+      "name": "華視-friday源c",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet003.smil/playlist.m3u8",
+      "name": "華視-friday源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://www.youtube.com/live/vr3XyVCR4T0",
