@@ -1,0 +1,194 @@
+{
+  "channelList": [
+    {
+      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+      "name": "TVBS新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=f9P_slj4KvU",
+      "name": "TVBS HD"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet005.smil/chunklist_b800000_slzho.m3u8",
+      "name": "TVBS新聞-friday源1",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet005.smil/playlist.m3u8",
+      "name": "TVBS新聞-friday源2x",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "name": "民視新聞"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet002.smil/chunklist_b800000_slzho.m3u8",
+      "name": "民視新聞-friday源1x",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
+      "name": "民視新聞-friday源2x",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet004.smil/playlist.m3u8",
+      "name": "民視新聞-friday源3",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
+      "name": "三立 iNEWS 新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QsGswQvRmtU",
+      "name": "三立新聞LIVE"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "name": "台視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "name": "台視"
+    },
+    {
+      "url": "https://www.youtube.com/c/twctvnews/live",
+      "name": "中視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+      "name": "中視新聞2"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "name": "華視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/live/vr3XyVCR4T0",
+      "name": "中天新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "name": "公視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=quwqlazU-c8",
+      "name": "公視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "name": "東森新聞"
+    },
+    {
+      "url": "https://www.youtube.com/user/57ETFN/live",
+      "name": "東森財經"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1I2iq41Akmo",
+      "name": "東森財經新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AEBeWMM1atA",
+      "name": "東森財經股市"
+    },
+    {
+      "url": "https://www.youtube.com/live/cimbpAZUjzw",
+      "name": "東森綜合2台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=k0uJVhYX12Y",
+      "name": "東森57怪奇物語"
+    },
+    {
+      "url": "http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8",
+      "name": "東森超視345"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "name": "寰宇新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7G62ua4RruQ",
+      "name": "寰宇新聞財經台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "name": "寰宇新聞台灣台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "name": "鏡新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YBgQRpZqeug",
+      "name": "今AI主播新聞"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+      "name": "非凡新聞friday源",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eA6Aczd3FZM",
+      "name": "非凡財經"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4HysYHJ6GkY",
+      "name": "國會頻道1"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Lj8OWF6nzcg",
+      "name": "國會頻道2"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
+      "name": "大愛一臺"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
+      "name": "大愛二臺"
+    },
+    {
+      "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8",
+      "name": "人間衛視"
+    },
+    {
+      "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8",
+      "name": "人間衛視2"
+    },
+    {
+      "url": "http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080",
+      "name": "生命電視台"
+    },
+    {
+      "url": "https://stream1.freetv.fun/69354b17f120facf9f500285793070d33efe35ae6abece2367865e4871a94697.m3u8",
+      "name": "唯心電視"
+    },
+    {
+      "url": "http://61.58.60.230:9319/live/49.m3u8",
+      "name": "世新綜合台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KyT4qSK8lJo",
+      "name": "台灣地震監視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=meHTKm4XBS8",
+      "name": "華視地震降雨即時資訊"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KpB5CMofRI8",
+      "name": "高雄市重要路口即時影像"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oPntQYFGwgY",
+      "name": "momo歡樂谷【專輯1-13】"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZjMe5u-I3PM",
+      "name": "東森YOYO金曲X熱門卡通"
+    }
+  ]
+}
