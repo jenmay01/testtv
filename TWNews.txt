@@ -5,7 +5,7 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=f9P_slj4KvU",
+      "url": "https://www.youtube.com/watch?v=WAUECPu9EOw",
       "name": "TVBS HD"
     },
     {
@@ -23,18 +23,8 @@
       "name": "民視新聞"
     },
     {
-      "url": "https://aka03p.akamaized.net/litv/fet002.smil/chunklist_b800000_slzho.m3u8",
-      "name": "民視新聞-friday源c",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
-      "name": "民視新聞-friday源",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
       "url": "https://aka03p.akamaized.net/litv/fet004.smil/playlist.m3u8",
-      "name": "民視新聞-friday源2",
+      "name": "民視新聞-friday源",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
@@ -157,7 +147,7 @@
       "name": "大愛一臺"
     },
     {
-      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
+      "url": "https://www.youtube.com/watch?v=OKvWtVoDR8I",
       "name": "大愛二臺"
     },
     {
