@@ -110,7 +110,7 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=7G62ua4RruQ",
+      "url": "https://www.youtube.com/watch?v=yAUQQ0DhPxI",
       "name": "寰宇新聞財經台"
     },
     {
@@ -122,7 +122,7 @@
       "name": "鏡新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=YBgQRpZqeug",
+      "url": "https://www.youtube.com/watch?v=RRybv1kEnCU",
       "name": "今AI主播新聞"
     },
     {
@@ -187,7 +187,7 @@
       "name": "momo歡樂谷【專輯1-13】"
     },
     {
-      "url": "https://www.youtube.com/watch?v=ZjMe5u-I3PM",
+      "url": "https://www.youtube.com/watch?v=KbG88GiZmBI",
       "name": "東森YOYO金曲X熱門卡通"
     }
   ]
