@@ -70,8 +70,12 @@
       "name": "中天新聞"
     },
     {
+      "url": "https://www.youtube.com/watch?v=dKkyfjn8xq8",
+      "name": "中天亞洲台"
+    },  
+    { 
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-      "name": "公視"
+      "name": "公共電視"
     },
     {
       "url": "https://www.youtube.com/watch?v=quwqlazU-c8",
