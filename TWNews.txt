@@ -2,7 +2,7 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
-      "name": "TVBS新聞"
+      "name": "TVBS新聞(如有遇到好幾天都不能看的頻道,請通知阿文)"
     },
     {
       "url": "https://www.youtube.com/watch?v=WAUECPu9EOw",
@@ -227,7 +227,7 @@
       "name": "momo購物1台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=xbNWkUyxQGM",
+      "url": "",
       "name": "momo購物2台"
     },
     {
