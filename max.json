@@ -21,8 +21,83 @@
     }, 
 
     {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/堡盒科技",
+      "name": "堡盒科技"
+    }, 
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/宝盒视界",
+      "name": "宝盒视界"
+    }, 
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/nzk0722.json",
+      "name": "D佬nzk0722-有直播源"
+    },
+
+    {
       "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/config.bin",
-      "name": "遊魂-網盤備用"
+      "name": "遊魂-網盤config"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/jsm.json",
+      "name": "遊魂-PGjsm"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/FongMi.json",
+      "name": "遊魂-真心FongMi"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/api.json",
+      "name": "遊魂-東離api"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/XC.json",
+      "name": "南風XC"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/index.json",
+      "name": "L佬index"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/哈基米.png",
+      "name": "哈基米"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/tvbox.json",
+      "name": "短劇tvbox"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/fmys.json",
+      "name": "駙馬fmys"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/in.bmp",
+      "name": "飯太硬in"
+    },
+
+    {
+      "url": "https://hello.肥貓.net/",
+      "name": "肥貓-無直播"
+    },
+
+    {
+      "url": "https://www.王二小放牛娃.top/",
+      "name": "王二小放牛娃"
+    },
+
+    {
+      "url": "https://www.饭太硬.com/tv",
+      "name": "飯太硬"
     }
 
   ]
