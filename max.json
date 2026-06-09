@@ -14,9 +14,16 @@
       "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/box2.json",
       "name": "box2"
     },
+
     {
-      "url": "https://9280.kstore.space/wex.json",
-      "name": "牛二线路"
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/bhkj.json",
+      "name": "軟體老哥bhkj"
+    }, 
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/config.bin",
+      "name": "遊魂-網盤備用"
     }
+
   ]
 }
