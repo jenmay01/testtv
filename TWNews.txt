@@ -2,7 +2,7 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
-      "name": "TVBS新聞(如有遇到好幾天都不能看的頻道,請通知阿文)"
+      "name": "TVBS新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=WAUECPu9EOw",
@@ -98,7 +98,7 @@
       "name": "東森綜合2台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=EZrg77WDF3o",
+      "url": "https://www.youtube.com/watch?v=5sFglcMEm7I",
       "name": "東森57怪奇物語"
     },
     {
@@ -135,36 +135,12 @@
       "name": "非凡財經"
     },
     {
-      "url": "https://www.youtube.com/watch?v=x6XVbD7Ln78",
+      "url": "https://www.youtube.com/watch?v=4HysYHJ6GkY",
       "name": "國會頻道1"
     },
     {
       "url": "https://www.youtube.com/watch?v=Lj8OWF6nzcg",
       "name": "國會頻道2"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=Lj8OWF6nzcg",
-      "name": "國會頻道2"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=UQnVkK1kcDI",
-      "name": "國會-經費稽核委員會"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=f-U9s-SMiMo",
-      "name": "國會-修憲委員會"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=tDg3bJFYLzI",
-      "name": "國會-立法院會議"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=ROCD0SZqMzM",
-      "name": "國會-程序委員會"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=vGX0bMBVa4k",
-      "name": "國會-內政委員會"
     },
     {
       "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
@@ -207,36 +183,8 @@
       "name": "高雄市重要路口即時影像"
     },
     {
-      "url": "https://www.youtube.com/watch?v=0FBiyFpV__g",
-      "name": "國際太空站24小時直播-夢想之旅"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=tUvQg2HgIbs",
-      "name": "東森購物46"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=wRdZ2t8Vd6k",
-      "name": "東森購物47"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=J3t9N0vciPI",
-      "name": "東森購物34"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=2IGZjBPTPT8",
-      "name": "東森購物60"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=_pZQ1Lk0xMA",
-      "name": "momo購物1台"
-    },
-    {
-      "url": "",
-      "name": "momo購物2台"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=u4821FWIHi8&list=RDu4821FWIHi8&start_radio=1",
-      "name": "momo歡樂谷"
+      "url": "https://www.youtube.com/watch?v=oPntQYFGwgY",
+      "name": "momo歡樂谷【專輯1-13】"
     },
     {
       "url": "https://www.youtube.com/watch?v=KbG88GiZmBI",
