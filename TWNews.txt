@@ -135,7 +135,7 @@
       "name": "非凡財經"
     },
     {
-      "url": "https://www.youtube.com/watch?v=4HysYHJ6GkY",
+      "url": "https://www.youtube.com/watch?v=x6XVbD7Ln78",
       "name": "國會頻道1"
     },
     {
