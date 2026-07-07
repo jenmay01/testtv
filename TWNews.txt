@@ -5,8 +5,12 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=WAUECPu9EOw",
-      "name": "TVBS HD"
+      "url": "",
+      "name": "TVBS HD-待更新"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TMjUNWnNYmE",
+      "name": "TVBS 財經"
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet005.smil/chunklist_b800000_slzho.m3u8",
@@ -32,11 +36,11 @@
       "name": "三立 iNEWS 新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=QsGswQvRmtU",
+      "url": "https://www.youtube.com/watch?v=yeYC0mbSIOo",
       "name": "三立新聞LIVE"
     },
     {
-      "url": "https://www.youtube.com/watch?v=sNtCBxP-8LY",
+      "url": "https://www.youtube.com/watch?v=9iRAqBMakXY",
       "name": "台視新聞"
     },
     {
@@ -71,7 +75,7 @@
     },
     { 
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-      "name": "公共電視"
+      "name": "公共電視13"
     },
     {
       "url": "https://www.youtube.com/watch?v=quwqlazU-c8",
@@ -175,7 +179,7 @@
       "name": "台灣地震監視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=meHTKm4XBS8",
+      "url": "https://www.youtube.com/watch?v=KMMHw8rllic",
       "name": "華視地震降雨即時資訊"
     },
     {
@@ -183,7 +187,7 @@
       "name": "高雄市重要路口即時影像"
     },
     {
-      "url": "https://www.youtube.com/watch?v=oPntQYFGwgY",
+      "url": "https://www.youtube.com/watch?v=xJ6ySzzvnno",
       "name": "momo歡樂谷【專輯1-13】"
     },
     {
