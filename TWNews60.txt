@@ -1,0 +1,41 @@
+{
+  "channelList": [
+    {"list": "https://anenasa.github.io/channel/config.txt"},
+    {
+      "url": "https://www.litv.tv/channel/watch/litv-vchannel365",
+      "name": "litv",
+      "header": "user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0 Safari/537.36",
+      "isWebView": true,
+      "scriptOnFinish": "const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));(async () => {while(!document.querySelector('#vjs_video_3_html5_api')){window.dispatchEvent(new MouseEvent('mousemove', { bubbles: true, clientX: 100, clientY: 100}));await sleep(200);}document.querySelector('header').style.display = 'none';document.querySelector('.jsx-bec2564aba04bee2').style.display = 'none';await sleep(2000);prompt('tap:50,50');await sleep(1000);prompt(`fullscreen:document.querySelector('#vjs_video_3_html5_api')`);})();"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292",
+      "name": "4gtv",
+      "isWebView": true,
+      "scriptOnFinish": "const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));var video=document.querySelector('video');(async () => {while(1){var duration=video.duration;if(video.src == 'https://4gtv-fttb.akamaized.net/service/anti_block.mp4' && !Number.isNaN(duration)){video.currentTime=duration;break;}await sleep(200);}})();const observer = new MutationObserver((mutations, obs) => {var unmute=document.querySelector('.vjs-mute-control');if(unmute&&unmute.classList.contains('vjs-vol-0'))unmute.click();});observer.observe(document.body, {childList: true,subtree: true});prompt('fullscreen:video');"
+    },
+    {
+      "url": "https://www.youtube.com/live/9iRAqBMakXY",
+      "name": "youtube",
+      "isWebView": true,
+      "scriptOnFinish": "document.querySelector('.ytp-unmute').click();const video = document.querySelector('video');prompt('fullscreen:video');const observer = new MutationObserver((mutations, obs) => {if (video.style.width != '100%')prompt('fullscreen:video');});observer.observe(video, {attributes: true,attributeFilter: ['style']});"
+    },
+    {
+      "url": "https://www.youtube.com/embed/m_dhMSvUCIc?autoplay=1",
+      "name": "youtube embed",
+      "isWebView": true,
+      "header": "Referer: http://example.com"
+    },
+    {
+      "url": "https://hamivideo.hinet.net/channel/OTT_LIVE_0000001974.do",
+      "name": "hami",
+      "isWebView": true,
+      "header": "user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0 Safari/537.36",
+      "scriptOnFinish": "setTimeout(()=>{prompt(`fullscreen:document.querySelector('video')`);}, 2000);"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCAOtE1V7Ots4DjM8JLlrYgg/live",
+      "name": "ejs"
+    }
+  ]
+}
