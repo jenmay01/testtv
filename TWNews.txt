@@ -198,6 +198,6 @@
       "url": "",
       "name": "TVBS HD-待更新-以下為原作者給的源"
     },
-    {"list": "https://anenasa.github.io/channel/config.txt"},
+    {"list": "https://anenasa.github.io/channel/config.txt"}
   ]
 }
