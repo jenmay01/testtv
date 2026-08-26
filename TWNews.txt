@@ -5,10 +5,6 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "",
-      "name": "TVBS HD-待更新"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=0an9taQ7OYM",
       "name": "TVBS 財經"
     },
@@ -197,6 +193,11 @@
     {
       "url": "https://www.youtube.com/watch?v=IgRPlOv-EIs",
       "name": "新哆啦a夢-木棉花"
-    }
+    },
+    {
+      "url": "",
+      "name": "TVBS HD-待更新-以下為原作者給的源"
+    },
+    {"list": "https://anenasa.github.io/channel/config.txt"},
   ]
 }
