@@ -1,6 +1,10 @@
 {
   "channelList": [
     {
+      "url": "",
+      "name": "如有收看時一段時間就顯示錯誤, 請進入設定更新程式,不能更新請連絡阿文"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
       "name": "TVBS新聞"
     },
