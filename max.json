@@ -1,6 +1,16 @@
 {
   "urls": [
     {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/20261008bhtv",
+      "name": "小程序寶盒bhtv"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/20261008bhtv2.txt",
+      "name": "小程序寶盒bhtv2"
+    },
+
+    {
       "url": "https://raw.githubusercontent.com/jenmay01/testtv/refs/heads/main/box.json",
       "name": "box"
     },
@@ -96,7 +106,7 @@
     },
 
     {
-      "url": "https://www.饭太硬.com/tv",
+      "url": "https://www.iyouhun.com/tv/fty",
       "name": "飯太硬"
     }
 
